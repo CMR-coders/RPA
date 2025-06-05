@@ -7,6 +7,10 @@ Comment Out, Message Box, Assign, Comment Out, Send Gmail, Delay, Message Box an
 Design a process to Generate Covid-19 report and send this report to the required recipient using the following activites in order:
 Generate Data Table From Text, Output Data Table as Text, Message Box, For Each Row in Data Table, ( Get Row Item, Get Row Item, Get Row Item, Get Row Item, Get Row Item, Get Row Item,) -> column number 0 to 4 ( region, testresult, testtype, name, emailid),  Browser(path ms word), Word AppGcation Scope, Assign, Append Text, Save Document as PDF, Assign, Send Google mail and use every activity one by one with out any error or warning 
 **Body** "Hi " + name + "," + Environment.NewLine + "Please find the lab report attached." + Environment.NewLine + "Thanks"
+![image](https://github.com/user-attachments/assets/a6230d56-cfc8-4fed-bea8-ad681d0d9241)
+![image](https://github.com/user-attachments/assets/17afddaf-4e09-42de-ad75-903a96822145)
+![image](https://github.com/user-attachments/assets/8ebdbd33-906e-4906-9e0e-55d98f2a2c31) 
+
 
 **Week-12**
 Create a UiPath workflow using Modern Excel activities to:
@@ -35,8 +39,3 @@ For Each File in Folder → Message Box → Extract PDF → Write Text File → 
 
 **Week-9**
 ![image](https://github.com/user-attachments/assets/2398098f-2aa6-45ce-bc38-a0d5769d52e7)
-
-****week-8****
-![image](https://github.com/user-attachments/assets/a6230d56-cfc8-4fed-bea8-ad681d0d9241)
-![image](https://github.com/user-attachments/assets/17afddaf-4e09-42de-ad75-903a96822145)
-![image](https://github.com/user-attachments/assets/8ebdbd33-906e-4906-9e0e-55d98f2a2c31) 
