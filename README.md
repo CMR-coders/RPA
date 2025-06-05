@@ -34,3 +34,8 @@ For Each File in Folder → Message Box → Extract PDF → Write Text File → 
 ![image](https://github.com/user-attachments/assets/8fc074d3-6b8a-437a-aa90-5d6726adb583)
 **Week-9**
 ![image](https://github.com/user-attachments/assets/2398098f-2aa6-45ce-bc38-a0d5769d52e7)
+**week-8**
+![image](https://github.com/user-attachments/assets/3d9ca0c9-886b-4285-a371-3667b1d85338)
+![image](https://github.com/user-attachments/assets/f246d918-1ed1-416b-a2b7-f6bb996830a8)
+![image](https://github.com/user-attachments/assets/c50a8ae7-e5ba-4fa4-ac18-d5cbca01fabb)
+
