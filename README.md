@@ -30,5 +30,7 @@ Activities:
 For Each File in Folder → Message Box → Extract PDF → Write Text File → Write Text File → Message Box 
 ![image](https://github.com/user-attachments/assets/ae2837f4-3a4a-4320-9379-b65594f2d0b3)
 
-
-
+**Week-10**
+![image](https://github.com/user-attachments/assets/8fc074d3-6b8a-437a-aa90-5d6726adb583)
+**Week-9**
+![image](https://github.com/user-attachments/assets/2398098f-2aa6-45ce-bc38-a0d5769d52e7)
