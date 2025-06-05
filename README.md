@@ -39,3 +39,20 @@ For Each File in Folder → Message Box → Extract PDF → Write Text File → 
 
 **Week-9**
 ![image](https://github.com/user-attachments/assets/2398098f-2aa6-45ce-bc38-a0d5769d52e7)
+
+**week-3**
+![image](https://github.com/user-attachments/assets/b6d7aab0-6158-4ad8-ab51-08257a2c0c0c)
+![image](https://github.com/user-attachments/assets/1403b95c-887c-48b5-bd30-0cd5f968d466)
+
+**Week-4**
+![image](https://github.com/user-attachments/assets/3c05dcf9-19d5-40e1-945b-a51a92c9b427)
+![image](https://github.com/user-attachments/assets/69021d09-bf9a-4407-b111-58b00dbd2b9b)
+![image](https://github.com/user-attachments/assets/1581aba8-02e2-4070-a600-681eb6c9bf72)
+
+**Week-5**
+![image](https://github.com/user-attachments/assets/37e97bcb-d00b-43b8-b63b-305d6838217b)
+![image](https://github.com/user-attachments/assets/36baf6bb-9ee0-4a91-9d87-d82157f7c51e)
+
+**Week-7**
+![image](https://github.com/user-attachments/assets/c6aa779b-eada-4b7b-b7a7-4cd55619205f)
+![image](https://github.com/user-attachments/assets/287534e6-1bd0-4f9c-8394-fe5f2bfd731c)
