@@ -32,8 +32,10 @@ For Each File in Folder → Message Box → Extract PDF → Write Text File → 
 
 **Week-10**
 ![image](https://github.com/user-attachments/assets/8fc074d3-6b8a-437a-aa90-5d6726adb583)
+
 **Week-9**
 ![image](https://github.com/user-attachments/assets/2398098f-2aa6-45ce-bc38-a0d5769d52e7)
+
 **week-8**
 ![image](https://github.com/user-attachments/assets/a6230d56-cfc8-4fed-bea8-ad681d0d9241)
 ![image](https://github.com/user-attachments/assets/17afddaf-4e09-42de-ad75-903a96822145)
